@@ -1,4 +1,4 @@
-#!/home/floride/Documents/TheNews-App/virtual/bin/python
+#!/home/floride/Desktop/News-App/virtual/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys

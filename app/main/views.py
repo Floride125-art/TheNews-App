@@ -11,12 +11,12 @@ def index():
     
 
     general = get_sources('general')
-    entertainment = get_sources('entertainment')
     business = get_sources('business')
-    health = get_sources('health')
+    entertainment = get_sources('entertainment')
     sports = get_sources('sports')
+    health = get_sources('health')
+    technology= get_sources('technology')
     science = get_sources('science')
-    technology = get_sources('technology')
 
     title = 'Home - Welcome'
     return render_template('index.html',business = business, health=health, science=science, title=title,sports = sports, technology = technology, entertainment = entertainment, general=general)
