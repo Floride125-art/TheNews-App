@@ -1,6 +1,6 @@
 import urllib.request
 import json
-# from .models import News_Source,News_Article
+from .models import News_Source,News_Article
 
 #getting api key
 api_key = None
