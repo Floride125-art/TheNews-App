@@ -1,11 +1,13 @@
-# News-App
+# TheNews-App
 This is an application that will help users list and preview news articles from various sources.   
 
 ## Author
 Floride Tuyisenge
 
 ## Technologies Used
+ * HTML
  * Python
+ * CSS
  * Flask
  * Flask-script
  * Flask-bootstrap
